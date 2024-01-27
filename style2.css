@@ -1,0 +1,31 @@
+body{
+    background-color: #00D84A;
+}
+#form-container{
+    background-color: #ffffff;
+    border: none;
+    height: 660px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 0 0 40px 0 inset #ffffff;
+    padding: 15px;
+    border-radius: 0.5rem;
+    
+}
+.heading{
+    text-align: center;
+}
+.btn{
+    width: 100%;
+    background-color: #00D84A;
+    margin-top: 10px;
+    font-size: 25px;
+    border: none;
+}
+input[type = "text"],
+input[type="number"],
+input[type="email"],
+input[type = "number"]
+{
+    width: 100%;
+}
